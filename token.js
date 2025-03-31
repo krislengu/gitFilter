@@ -1,3 +1,3 @@
-const token="REMOVED"
-const secondToken="REMOVED"
-
+const token="env.token"
+const secondToken="env.secondToken"
+const oneMore="more varible here"
