@@ -1,1 +1,1 @@
-const secondToken="REMOVED"
+const secondToken="env.secondToken"
